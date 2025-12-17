@@ -1,7 +1,7 @@
 @font-face {
 	font-family: "title";
 		src:
-    url("trickster-COLRv1.otf") format("opentype") tech(color-COLRv1);
+    url("./assets/title1.ttf");
 }
 body {
 	background-image: url("./assets/background.png");
