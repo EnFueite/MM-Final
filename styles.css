@@ -7,7 +7,7 @@
 @import url(https://fonts.googleapis.com/earlyaccess/cwtexkai.css);
 body {
 	background-image: url("./assets/background.png");
-    	background-color: #cccccc;
+    background-color: #cccccc;
 	background-size: cover;
 }
 
@@ -16,7 +16,7 @@ h1 {
     text-align: center;
     font-family: ‘cwTeXKai’, serif;
     font-weight: normal;
-	color:#49d0cc;
+	color: #49d0cc;
 }
 
 
